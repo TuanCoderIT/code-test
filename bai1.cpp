@@ -15,5 +15,6 @@ int main () {
     cout <<"Nhap n phan tu: " ;
     cin >> n;
     cout <<"Tong = " << tinhTong(n);
+    cout << "Javascript" << endl;
 }
 
